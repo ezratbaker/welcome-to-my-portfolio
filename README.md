@@ -8,9 +8,9 @@ I’m a data analyst with experience in **Python**, **SQL**, and **Excel**, pass
 
 | Project | Description | Skills |
 | ------- | ----------- | ------ |
-| [EV Market Analysis](https://github.com/ezratbaker/example-project-electric-vehicles) 🔋 | Analyzed global EV sales and forecasted future trends by country and powertrain | SQL, Python, Forecasting, Visualization |
-| [Retail Sales Insights](https://github.com/ezratbaker/example-project-sales) 💼 | Identified top-performing products/customers and sales team KPIs | SQL, Python, Data Viz, Segmentation |
-| [Sports Scouting](https://github.com/ezratbaker/example-project-sports) ⚽ | Ranked goal-scorers across leagues to identify transfer targets for Arsenal | Python, Ranking Metrics, Visualization |
+| [EV Market Analysis](https://github.com/ezratbaker/example-project-electric-vehicles) 🔋 | Analyzed global EV sales and forecasted future trends by country and powertrain | Forecasting, Model Validation, Regression Analysis, Visualization |
+| [Retail Sales Insights](https://github.com/ezratbaker/example-project-sales) 💼 | Identified top-performing products/customers and sales team KPIs | Customer Segmentation, Sales Performance Analysis, Product Performance |
+| [Sports Scouting](https://github.com/ezratbaker/example-project-sports) ⚽ | Ranked goal-scorers across leagues to identify transfer targets for Arsenal | Scouting Insights, Custom KPI's, Ranking Metrics, Statistical Analysis |
 
 ## 📊 Skills Snapshot
 
